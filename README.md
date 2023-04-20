@@ -1,3 +1,4 @@
 # SampleWebApp
 
-this is a web Application.
+This is a web Application.
+Sample Web Application.
